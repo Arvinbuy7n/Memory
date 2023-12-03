@@ -42,10 +42,39 @@ const generateData = () => {
       text: "4",
       src: "./pine.png"
     },
-
+    {
+      text: "5",
+      src: "./pine.png"
+    },
+    {
+      text: "5",
+      src: "./pine.png"
+    },
+    {
+      text: "6",
+      src: "./pine.png"
+    },
+    {
+      text: "6",
+      src: "./pine.png"
+    },
+    {
+      text: "7",
+      src: "./pine.png"
+    },
+    {
+      text: "7",
+      src: "./pine.png"
+    },
+    {
+      text: "8",
+      src: "./pine.png"
+    },
+    {
+      text: "8",
+      src: "./pine.png"
+    },
   ];
-
-
 
   return data
 };
